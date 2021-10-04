@@ -1,4 +1,4 @@
-# project (just a bit too long ago so idk wut to do)
+# project
 
 A new Flutter project.
 
